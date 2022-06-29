@@ -151,7 +151,8 @@ footer{
     text-align: center;
     width: 100%;
     position: relative;
-	bottom: 0px;
+     margin-top: auto;
+     bottom: 0px;
     height: 53px;
 }
 .main{
